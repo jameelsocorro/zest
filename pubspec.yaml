@@ -1,7 +1,6 @@
 name: zest
 description: A compilation of animations.
 version: 0.0.1
-author: Jameel Socorro
 homepage: https://github.com/jameelsocorro/zest
 
 environment:
