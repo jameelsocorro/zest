@@ -1,8 +1,8 @@
 name: zest
-description: A new Flutter package project.
+description: A compilation of animations.
 version: 0.0.1
-author:
-homepage:
+author: Jameel Socorro
+homepage: https://github.com/jameelsocorro/zest
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
